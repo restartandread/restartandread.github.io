@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://restartandread.github.io/sitemap.xml.gz
